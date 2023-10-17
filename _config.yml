@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xiaoyi Tang"
   avatar           : "xiaoyi.png"
-  bio              : "Senior Student major in Economics, interested in emperical research "
-  location         : "Beijing, China"
+  bio              :  # "Senior Student major in Economics, interested in emperical research "
+  location         :  # "Beijing, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
