@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyi Tang"
+title                    : "Xiaoyi Tang / 汤晓宜"
 title_separator          : "-"
-name                     : &name "Xiaoyi Tang"
+name                     : &name "Xiaoyi Tang / 汤晓宜"
 description              : &description "Senior Student major in Economics"
 url                      : https://xiaoyi-tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
