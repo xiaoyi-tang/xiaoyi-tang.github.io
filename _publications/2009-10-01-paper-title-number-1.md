@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Research"
-excerpt: "Research"
+excerpt: "publications"
 author_profile: true
 ---
 
