@@ -10,7 +10,7 @@ redirect_from:
 
 Hello and welcome to my homepage!
 
-I'm a senior student studying at the Innovation Class for Top Talents in Economics, Minzu University of China, where I am fortunate to be advised by [Prof. Jing Liu](https://eco.muc.edu.cn/info/1373/3667.htm). I went to UC Berkeley as a visiting student in Spring 2022. My research interests are in applied microeconomics, health economics, and development economics. My CV is available [here](/files/CV.pdf).
+I'm a senior student studying at the Innovation Class for Top Talents in Economics, Minzu University of China, where I am fortunate to be advised by [Prof. Jing Liu](https://eco.muc.edu.cn/info/1373/3667.htm). I went to UC Berkeley as a visiting student last year. My research interests are in applied microeconomics, health economics, and development economics. My CV is available [here](/files/CV.pdf).
 
 Feel free to contact me if you would like to connect!
 
