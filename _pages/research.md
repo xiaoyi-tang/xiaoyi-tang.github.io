@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Working papers
+======
+Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky Trap" under Algorithms: Evidence from a Social Survey for Meituan Take-out Riders (with Yufei Liu and Pinhan Yi) [Abstract][Chinese version][Slides(Chinese version)]
 
-{% include base_path %}
+English version available soon
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Work in progress 
+======
+**Undergraduate thesis**:
