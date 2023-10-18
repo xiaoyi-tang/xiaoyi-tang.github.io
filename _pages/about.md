@@ -17,14 +17,8 @@ I'm excited to apply my academic insights and research experience to conduct emp
 Feel free to contact me if you would like to connect! I look forward to sharing insights and collaborating on projects with you to explore the causes and consequences of economic development. Let's make a difference together!
 
 
-Getting started
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+**June 2023**: I was invited to attend the 2023 Health and Aging Economics Summer Camp organized by PKU-iGHD and Yale Institution for Social and Policy Studies, where I shared my working paper *Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky Trap" under Algorithms: Evidence from a Social Survey for Meituan Take-out Riders* and got some useful revision suggestions!
 
 > 操千曲而后晓声，观千剑而后识器。--刘勰《文心雕龙·知音》
