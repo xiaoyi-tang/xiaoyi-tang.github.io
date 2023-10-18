@@ -21,5 +21,5 @@ News
 ======
 **June 2023**: I was invited to attend the [2023 Health and Aging Economics Summer Camp](https://www.ghd.pku.edu.cn/xwzx/adaacb7a7f984003985e0aafcd547115.htm) organized by [PKU-iGHD](https://www.ghd.pku.edu.cn/index.htm) and [Yale Institution for Social and Policy Studies](https://isps.yale.edu/), where I shared my working paper *Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky Trap" under Algorithms: Evidence from a Social Survey for Meituan Take-out Riders* and got some useful revision suggestions!
 
-**October 2022**: I just finished my RA work at the [Empirical Research on Chinese Economic and Social Data](https://byelenin.github.io/zh/Chinadata.html) project. I'm sincerely grateful for the guidance from my advisor, [Prof. Zhaopeng Frank Qu](https://byelenin.github.io/) and all the help given by other research assistants!
+**October 2022**: I just finished my 6-month RA work at the [Empirical Research on Chinese Economic and Social Data](https://byelenin.github.io/zh/Chinadata.html) project. I'm sincerely grateful for the guidance from my advisor, [Prof. Zhaopeng Frank Qu](https://byelenin.github.io/) and all the help given by other research assistants!
 > 操千曲而后晓声，观千剑而后识器。--刘勰《文心雕龙·知音》
