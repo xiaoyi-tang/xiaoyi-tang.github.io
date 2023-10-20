@@ -15,4 +15,4 @@ English version available soon
 
 ### Work in progress 
 
-**Undergraduate thesis**:
+
