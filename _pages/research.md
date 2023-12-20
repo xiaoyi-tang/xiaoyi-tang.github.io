@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Working papers
+### Working paper
 
 Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky Trap" under Algorithms: Evidence from a Social Survey for Meituan Take-out Riders 
 
