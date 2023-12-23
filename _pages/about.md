@@ -14,7 +14,7 @@ I'm a senior student majoring in Economics at Minzu University of China, where I
 
 I'm excited to apply my academic insights and research skills to conduct economic research. I believe in the power of empirical analysis, where convincing data and causal inference can address some of the world's most pressing challenges and provide useful suggestions for future development. My long-term goal is to work in academia and I'm now working to apply for an Econ PhD first. 
 
-I'm actively seeking research opportunities that align with my research interests in applied microeconomics, development economics, and health economics. Feel free to contact me if you would like to connect! 
+I'm actively seeking research opportunities that align with my research interests in applied microeconomics, development economics, and labor economics. Feel free to contact me if you would like to connect! 
 
 ## News
 
