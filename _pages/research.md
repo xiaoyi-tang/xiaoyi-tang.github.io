@@ -16,4 +16,4 @@ English version available soon
 
 ### Work in progress 
 
-Involution among different countries (with Kelvin Yuen)
+Involution among different countries (with [Kelvin Yuen](https://kelvincyyuen.com/))
