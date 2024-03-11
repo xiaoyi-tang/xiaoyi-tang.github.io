@@ -10,7 +10,7 @@ redirect_from:
 
 Hello and welcome to my homepage!
 
-I'm a senior student majoring in Economics at Minzu University of China. I will pursue my economics master degree at UChicago. Now I am a Research Assistant working at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the guidance of [Prof. Kelvin Yuen](https://kelvincyyuen.com/). I went to UC Berkeley as a visiting student in 2022. You could find my CV [here](/files/CV.pdf).
+I'm a senior student majoring in Economics at Minzu University of China. I will pursue my economics master degree at UChicago starting in Autumn 2024. Now I am a Research Assistant working at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the guidance of [Prof. Kelvin Yuen](https://kelvincyyuen.com/). I went to UC Berkeley as a visiting student in 2022. You could find my CV [here](/files/CV.pdf).
 
 I'm excited to apply my academic insights and research skills to conduct economic research. I believe in the power of empirical analysis, where convincing data and causal inference can address some of the world's most pressing challenges and provide useful suggestions for future development. My long-term goal is to work in academia and I'm now working to apply for an Econ PhD first. 
 
