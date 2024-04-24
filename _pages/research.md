@@ -14,8 +14,9 @@ Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky T
 
 English version available soon
 
+Undergraduate thesis available soon
+
 ### Work in progress 
 
-Involution among different countries (with [Kelvin Yuen](https://kelvincyyuen.com/))
+Evaluate the health benefit of the West-East Electricity Transmission Project in China
 
-Undergraduate thesis available soon
