@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyi (Shiny) Tang / 汤晓宜"
+title                    : "Xiaoyi Tang / 汤晓宜"
 title_separator          : "-"
-name                     : &name "Xiaoyi (Shiny) Tang / 汤晓宜"
+name                     : &name "Xiaoyi Tang / 汤晓宜"
 description              : &description "Senior Student major in Economics"
 url                      : https://xiaoyi-tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoyi Tang"
+  name             : "Xiaoyi (Shiny) Tang"
   avatar           : "xiaoyi.png"
   bio              :  # "Senior Student major in Economics, interested in emperical research "
   location         :  # "Beijing, China"
