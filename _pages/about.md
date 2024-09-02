@@ -10,7 +10,7 @@ redirect_from:
 
 Hello and welcome to my homepage!
 
-I’m an incoming master student at UChicago with a concentration in Economics. I went to UC Berkeley as a visiting student in 2022. You could find my CV [here](/files/CV.pdf).
+I’m a master student at UChicago with a concentration in Economics. I went to UC Berkeley as a visiting student in 2022. You could find my CV [here](/files/CV.pdf).
 
 I'm excited to apply my academic insights and research skills to conduct economic research. I believe in the power of empirical analysis, where convincing data and causal inference can address some of the world's most pressing challenges and provide useful suggestions for future development. My long-term goal is to work in academia and now I plan to work as a predoctoral fellow before eventually enrolling in a PhD program in Economics.
  
