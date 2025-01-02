@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sherry Tang"
   avatar           : "xiaoyi.png"
-  bio              : "MA Econ Student at UChicago"
+  bio              : "xiaoyitang@uchicago.edu"
   location         : "Chicago, IL"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "xiaoyitang@uchicago.edu"
+  email            :  #"xiaoyitang@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
