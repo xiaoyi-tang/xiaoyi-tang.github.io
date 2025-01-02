@@ -10,11 +10,7 @@ redirect_from:
 
 Hello and welcome to my homepage!
 
-I’m a master student at UChicago with a concentration in Economics. I went to UC Berkeley as a visiting student in 2022. You could find my CV [here](/files/CV.pdf).
-
-I'm excited to apply my academic insights and research skills to conduct economic research. I believe in the power of empirical analysis, where convincing data and causal inference can address some of the world's most pressing challenges and provide useful suggestions for future development. My long-term goal is to work in academia and now I plan to work as a predoctoral fellow before eventually enrolling in a PhD program in Economics.
- 
-I'm actively seeking research opportunities that align with my research interests in applied microeconomics. Feel free to contact me at [xiaoyitang@uchicago.edu](mailto:xiaoyitang@uchicago.edu) if you would like to connect! 
+I’m a master student at the University of Chicago with a concentration in Economics. In Summer 2025, I will be a Predoctoral Fellow at The Salata Institute for Climate and Sustainability at Harvard University. I graduated from Minzu University of China with a degree in Economics. I went to UC Berkeley as a visiting student in 2022. You could find my CV [here](/files/CV.pdf). My research interests are in environment, labor, and applied econometrics. Feel free to contact me at [xiaoyitang@uchicago.edu](mailto:xiaoyitang@uchicago.edu) if you would like to connect, I’m always happy to chat!
 
 ## News
 
@@ -24,4 +20,3 @@ I'm actively seeking research opportunities that align with my research interest
 
 **October 2022**: I just finished my 7-month RA work at the [Empirical Research on Chinese Economic and Social Data](https://byelenin.github.io/zh/Chinadata.html) project. I'm sincerely grateful for the guidance from my advisor, [Prof. Zhaopeng Frank Qu](https://byelenin.github.io/) and it's very joyful working with other research assistants!
 
-> 操千曲而后晓声，观千剑而后识器。--刘勰《文心雕龙·知音》
