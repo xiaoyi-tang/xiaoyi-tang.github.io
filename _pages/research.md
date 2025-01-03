@@ -9,7 +9,7 @@ author_profile: true
 
 ### Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky Trap" under Algorithms: Evidence from a Social Survey for Meituan Take-out Riders (English version available soon)
 
-Presented at the 2023 Health and Aging Economics Summer Camp organized by PKU-iGHD & Yale Institution for Social and Policy Studie
+Presented at the 2023 Health and Aging Economics Summer Camp organized by PKU-iGHD & Yale Institution for Social and Policy Studies
 [[Chinese version](/files/Digital_Laborers_Stricky_Trap.pdf)][[Slides (Chinese version)](/files/slides.pdf)]
 
 
