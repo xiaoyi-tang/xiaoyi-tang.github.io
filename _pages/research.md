@@ -14,9 +14,7 @@ Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky T
 
 English version available soon
 
-Undergraduate thesis available soon
+### Undergraduate thesis 
+Children quantity, parental health and the potential mechanisms (available soon)
 
-### Work in progress 
-
-Evaluate the health benefit of the West-East Electricity Transmission Project in China
 
