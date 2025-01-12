@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sherry Tang"
 title_separator          : "-"
-name                     : &name "Xiaoyi Tang / 汤晓宜"
+name                     : &name "Sherry Tang"
 description              : &description "Senior Student major in Economics"
 url                      : https://xiaoyi-tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
