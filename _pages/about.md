@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sherry Tang (Xiaoyi Tang / 汤晓宜)"
+title: "Sherry Tang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
