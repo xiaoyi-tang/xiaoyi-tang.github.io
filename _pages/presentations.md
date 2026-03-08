@@ -9,7 +9,7 @@ author_profile: true
 
 {% for post in talks %}
   <p>
-    <strong>{{ post.author}}</strong>
+    {{ post.author}}
     <strong>{{ post.title }}</strong>
     {% if post.type %}, {{ post.type }}{% endif %}
     {% if post.venue %}, {{ post.venue }}{% endif %}
