@@ -9,7 +9,9 @@ author_profile: true
 
 {% for post in talks %}
   <p>
+    <strong>{{ post.author}}</strong>
     <strong>{{ post.title }}</strong>
+    {% if post.type %}, {{ post.type }}{% endif %}
     {% if post.venue %}, {{ post.venue }}{% endif %}
     {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}.
     {% if post.slides %}<a href="{{ post.slides }}">Slides</a>{% endif %}
