@@ -5,14 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-### Working paper
+### Work in progress
 
-Formation Mechanism and Impact of the Digital Laborers’ Occupational "Sticky Trap" under Algorithms: Evidence from a Social Survey for Meituan Take-out Riders (with Yufei Liu and Pinhan Yi) 
+Priced Out of Safety? Insurance Reform, Residential Sorting, and Climate Gentrification
 
-[[Chinese version](/files/Digital_Laborers_Stricky_Trap.pdf)][[Slides(Chinese version)](/files/slides.pdf)]
-
-English version available soon
-
-### Work in progress 
+draft available soon
 
 
